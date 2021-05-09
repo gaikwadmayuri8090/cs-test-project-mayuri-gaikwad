@@ -1,0 +1,3 @@
+{"id":"test","state":"STARTED","type":"APPLICATION_LOG","host":"123545","timestamp":1491377495216}
+{"id":"test1","state":"STARTED","type":"APPLICATION_LOG","host":"123545","timestamp":1491377495316}
+{"id":"test","state":"FINISHED","type":"APPLICATION_LOG","host":"123545","timestamp":1491377495266}
